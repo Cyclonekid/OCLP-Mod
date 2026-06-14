@@ -1,8 +1,14 @@
-## 此项目进入维护阶段，后续不再提供任何更新与修复
-## 即日起，一切提交都将从dortania/OpenCore-Legacy-Patcher仓库同步
-## 感谢一切对此项目作出贡献、喜欢使用此项目的小伙伴
-### 没有特殊原因，仅因为未来精力不足，我需要投入其他能够持续发展的项目，而不是已经到达终点的黑苹果
-### 未来再见
+## 黑苹果已经消失在历史中，不知不觉中OCLP-Mod已经维护2年有余了。回想起最开始玩黑果的样子，有点恍惚。
+## 回忆应当是无价的罢，至少我这样觉得
+## 此项目自2026.06.13进入存档状态，非极特殊情况（比如世界毁灭）不再发布任何更新。已存在的版本仍可继续使用，但我们的API节点会逐步关闭，请在OCLP-Mod设置内关闭SimpleHacAPI
+## 光影交错，长风入怀，未来再见
+
+----
+
+## Hackintosh has already faded into history. Unconsciously, OCLP-Mod has been maintained for over two years now. Looking back on the early days of playing with Hackintosh, I feel a bit dazed.
+## Memories should be priceless, at least that's what I think.
+## This project entered archival status as of June 13, 2026. Unless something extremely unusual happens (like the end of the world), no further updates will be released. Existing versions can still be used, but our API nodes will gradually be shut down. Please disable SimpleHacAPI in OCLP-Mod settings.
+## Where light and shadow cross, the wind blows through. See you in the future.
 
 ----
 
